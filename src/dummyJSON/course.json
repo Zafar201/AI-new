@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Intro into ML",
+        "slug": "intro-into-ml",
+        "description": "introduction into Machine Learning",
+        "author": "Rai",
+        "durationValue": 0,
+        "durationType": "HOUR",
+        "courseType": "FREE",
+        "brilliancePoints": 0,
+        "sellingPrice": 0,
+        "discountedPrice": 0,
+        "thumbnailUrl": "https://picsum.photos/id/2/200/300",
+        "totalBatches": 2,
+        "batchDates": [
+            "2021-12-22T13:59:32.890Z",
+            "2021-12-31T14:00:02.091Z"
+        ],
+        "domain": "ML",
+        "filters": [
+            "AI",
+            "NLP"
+        ],
+        "concepts": [
+            "AI",
+            "NLP"
+        ],
+        "detailThumbnailUrl": "https://picsum.photos/id/2/600/400",
+        "overviewVideoUrl": "",
+        "modules": [
+            {
+                "moduleTitle": "ML 101",
+                "moduleIndex": 0,
+                "sections": [
+                    {
+                        "sectionIndex": 0,
+                        "sectionType": "video",
+                        "sectionTitle": "Intro",
+                        "sectionDurationValue": 30,
+                        "sectionDurationType": "MINUTES",
+                        "sectionLiveUrl": "",
+                        "sectionCoach": "Rai",
+                        "totalCodingEnablers": 0,
+                        "sectionEnablers": [],
+                        "sectionContentUrl": "https://picsum.photos/id/2/600/400"
+                    }
+                ]
+            }
+        ],
+        "status": "DRAFT"
+    },
+    {
+        "title": "Intro into ML",
+        "slug": "intro-into-ml",
+        "description": "introduction into Machine Learning",
+        "author": "Rai",
+        "durationValue": 0,
+        "durationType": "HOUR",
+        "courseType": "PAID",
+        "brilliancePoints": 0,
+        "sellingPrice": 0,
+        "discountedPrice": 0,
+        "thumbnailUrl": "https://picsum.photos/id/2/200/300",
+        "totalBatches": 2,
+        "batchDates": [
+            "2021-12-22T13:59:32.890Z",
+            "2021-12-31T14:00:02.091Z"
+        ],
+        "domain": "ML",
+        "filters": [
+            "AI",
+            "NLP"
+        ],
+        "concepts": [
+            "AI",
+            "NLP"
+        ],
+        "detailThumbnailUrl": "https://picsum.photos/id/2/600/400",
+        "overviewVideoUrl": "",
+        "modules": [
+            {
+                "moduleTitle": "ML 101",
+                "moduleIndex": 0,
+                "sections": [
+                    {
+                        "sectionIndex": 0,
+                        "sectionType": "video",
+                        "sectionTitle": "Intro",
+                        "sectionDurationValue": 30,
+                        "sectionDurationType": "MINUTES",
+                        "sectionLiveUrl": "",
+                        "sectionCoach": "Rai",
+                        "totalCodingEnablers": 0,
+                        "sectionEnablers": [],
+                        "sectionContentUrl": "https://picsum.photos/id/2/600/400"
+                    }
+                ]
+            }
+        ],
+        "status": "DRAFT"
+    }
+]
